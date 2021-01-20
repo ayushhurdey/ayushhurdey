@@ -10,8 +10,9 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2]
 
 ### Technologies and Tools
 
-<img src = "https://img.shields.io/badge/Editor-IntelliJ-green" /> <img src = "https://img.shields.io/badge/Language-Java-yellowgreen" />
-<img src = "https://img.shields.io/badge/Language-Python-blue" /> <img src = "https://img.shields.io/badge/Language-JavaScript-yellowgreen" />
+<img src = "https://img.shields.io/badge/Editor-IntelliJ-green" /> <img src = "https://img.shields.io/badge/Language-Java-blue" />
+<img src = "https://img.shields.io/badge/Framework-springboot-blue" /> <img src = "https://img.shields.io/badge/Language-Python-yellowgreen" />
+<img src = "https://img.shields.io/badge/Language-JavaScript-yellowgreen" /> <img src = "https://img.shields.io/badge/database-mysql-blue" />
 
 
 <!-- Icons -->
