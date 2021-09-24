@@ -1,6 +1,6 @@
 <img src = "undraw_developer_activity_bv83.svg" height = "300px" width = "100%"/>
 
-### Hi there 👋
+### Hi there 👋, I am Ayush Choudhary
 
 <hr>
 
