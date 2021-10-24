@@ -8,6 +8,7 @@
 You can find me on 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/AyushCh11046805)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ayush-choudhary-5a0b1b193/)
+[![Smartr Badge](https://img.shields.io/badge/Smartr-Profile-informational?style=flat&logo=Smartr&logoColor=white&color=1CA2F1)](https://www.smartr.me/public/profiles/ayush.choudhary275)
 <!-- [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2] -->
 
 <hr>
@@ -28,7 +29,7 @@ You can find me on
 ### Github Stats
 
 [![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushhurdey)](https://github.com/ayushhurdey/github-readme-stats)
-[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushhurdey)](https://github.com/ayushhurdey/github-readme-stats)
+[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushhurdey&layout=compact)](https://github.com/ayushhurdey/github-readme-stats)
 
 
 <!-- Icons -->
