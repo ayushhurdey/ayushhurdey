@@ -22,7 +22,9 @@ You can find me on
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=4AB117)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=AWS&logoColor=white&color=4AB197)
 <img src = "https://img.shields.io/badge/Editor-IntelliJ-green" />
+<img src = "https://img.shields.io/badge/Editor-VS Code-green" />
 <img src = "https://img.shields.io/badge/Paradigm-OOP-green" />
 
 
