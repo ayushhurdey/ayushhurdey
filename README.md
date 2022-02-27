@@ -1,5 +1,6 @@
 <img src = "undraw_developer_activity_bv83.svg" height = "300px" width = "100%"/>
 
+<!-- Profile Views: <img src="https://komarev.com/ghpvc/?username=ayushhurdey" alt="100"/>    To be uncommended when have decent views.-->
 ### Hi there 👋
   I am Ayush Choudhary. 
  - I am a Java Spring boot developer. Currently a Student. Inquisitive learner always.
