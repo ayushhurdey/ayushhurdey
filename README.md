@@ -1,8 +1,11 @@
 <img src = "undraw_developer_activity_bv83.svg" height = "300px" width = "100%"/>
 
 ### Hi there 👋
- I am Ayush Choudhary. I am a Java Spring boot developer. Currently a Student. Inquisitive learner always.
-
+  I am Ayush Choudhary. 
+ - I am a Java Spring boot developer. Currently a Student. Inquisitive learner always.
+ - Student, B.Tech CSE Final year, (KIET Group of Institions, Ghaziabad)
+ - More interested in developing and learning about beautiful and interesting backends.
+ - Cares a lot about right coding styles and deeply interested in writing wow feeling giving and understandable codebases.
 <hr>
 
 You can find me on 
