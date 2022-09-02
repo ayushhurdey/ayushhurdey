@@ -11,16 +11,16 @@
     <div align = "center">
       <b> Hi there 👋,</b>
          I am Ayush Choudhary.
-      <div>I am a Java Spring boot developer. Currently a Student & Inquisitive learner always.</div>
-      <div>Student, B.Tech CSE Final year, (KIET Group of Institions, Ghaziabad)</div>
+      <div>I am a Java Spring boot developer & Inquisitive learner always.</div>
+      <div>Graduated in B.Tech CSE 2022 from KIET Group of Institions, Ghaziabad</div>
       <div>More interested in developing and learning about beautiful and interesting backends.</div>
       <div>Cares a lot about right coding styles & pattern and deeply interested in writing wow feeling giving and understandable codebases.</div>
      </div>
   </p>
   
 <!--   
- - I am a Java Spring boot developer. Currently a Student & Inquisitive learner always.
- - Student, B.Tech CSE Final year, (KIET Group of Institions, Ghaziabad)
+ - I am a Java Spring boot developer & Inquisitive learner always.
+ - Graduated in B.Tech CSE 2022 from KIET Group of Institions, Ghaziabad.
  - More interested in developing and learning about beautiful and interesting backends.
  - Cares a lot about right coding styles & pattern and deeply interested in writing wow feeling giving and understandable codebases. -->
 <hr>
@@ -32,7 +32,7 @@ import java.util.*;
 public class Ayush{
     private final static String NAME = "Ayush Choudhary";
     private final static String USERNAME = "ayushhurdey";
-    private final static String LOCATION = "Delhi NCR, India";
+    private final static String LOCATION = "Bengaluru, Karnataka, India";
     private final static String LINKEDIN = "https://www.linkedin.com/in/ayush-choudhary-5a0b1b193/";
     private static Map<String, String> map;
     public static Ayush singleton;
