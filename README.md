@@ -11,15 +11,14 @@
     <div align = "center">
       <b> Hi there 👋,</b>
          I am Ayush Choudhary.
-      <div>I am a Java Spring boot developer & Inquisitive learner always.</div>
+      <div>I am a Java Spring boot & React developer & Inquisitive learner always.</div>
       <div>Graduated in B.Tech CSE 2022 from KIET Group of Institions, Ghaziabad</div>
-      <div>More interested in developing and learning about beautiful and interesting backends.</div>
-      <div>Cares a lot about right coding styles & pattern and deeply interested in writing wow feeling giving and understandable codebases.</div>
+      <div>More interested in developing and learning about beautiful and interesting backends architectures.</div>
      </div>
   </p>
   
 <!--   
- - I am a Java Spring boot developer & Inquisitive learner always.
+ - I am a Java Spring boot & React developer & Inquisitive learner always.
  - Graduated in B.Tech CSE 2022 from KIET Group of Institions, Ghaziabad.
  - More interested in developing and learning about beautiful and interesting backends.
  - Cares a lot about right coding styles & pattern and deeply interested in writing wow feeling giving and understandable codebases. -->
@@ -118,6 +117,7 @@ public class Ayush{
 <div align="center">
   <img src="https://img.shields.io/badge/-Java-c58545?style=for-the-badge&logo=java&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-SpringBoot-98b982?style=for-the-badge&logo=springboot&logoColor=98b982&labelColor=282828">
+  <img src="https://img.shields.io/badge/-React-98b982?style=for-the-badge&logo=react&logoColor=98b922&labelColor=282828">
   <img src="https://img.shields.io/badge/-Javascript-d1a01f?style=for-the-badge&logo=javascript&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/-MySQL-c58545?style=for-the-badge&logo=mysql&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-Docker-98b982?style=for-the-badge&logo=docker&logoColor=98b982&labelColor=282828">
