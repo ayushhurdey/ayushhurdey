@@ -3,7 +3,7 @@
 <!-- Profile Views: <img src="https://komarev.com/ghpvc/?username=ayushhurdey" alt="100"/>    To be uncommended when have decent views.-->
 
 <h1 align="center">
-  <b>Ayush Choudhary: Backend Developer </b>
+  <b>Ayush Choudhary: Fullstack Developer </b>
 </h1>
 
 
