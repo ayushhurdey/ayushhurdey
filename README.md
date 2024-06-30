@@ -13,6 +13,7 @@
          I am Ayush Choudhary.
       <div>I am a Java Spring boot & React developer & Inquisitive learner always.</div>
       <div>Graduated in B.Tech CSE 2022 from KIET Group of Institions, Ghaziabad</div>
+      <div>Working at Lowe's India as a Full stack developer</div>
       <div>More interested in developing and learning about beautiful and interesting backends architectures.</div>
      </div>
   </p>
